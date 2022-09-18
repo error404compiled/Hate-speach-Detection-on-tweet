@@ -1,7 +1,7 @@
 # Hate-speach-Detection-on-tweet
-###A streamlit app to analyze your Hate-speach-Detection-on-tweet
+### A streamlit app to analyze your Hate-speach-Detection-on-tweet
 
-###Demo Link:https://hate-speech-detection-v2.herokuapp.com/
+### Demo Link:https://hate-speech-detection-v2.herokuapp.com/
 
 
 ## To run this code in your terminal:
