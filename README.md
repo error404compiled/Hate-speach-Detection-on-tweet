@@ -1,3 +1,9 @@
+# Hate-speach-Detection-on-tweet
+###A streamlit app to analyze your Hate-speach-Detection-on-tweet
+
+###Demo Link:https://hate-speech-detection-v2.herokuapp.com/
+
+
 ## To run this code in your terminal:
 * ***Open your terminal**
 * ***Change directory to where you have downloaded this code***
@@ -8,3 +14,9 @@
 * **Write**   `  pip install -r requirements.txt  ` 
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
 * **Run the command** `streamlit run main.py` ***to run your main file***
+
+
+
+## Contacts:
+* **Created by: [Hritik Sharma](https://github.com/error404compiled)**
+* **Email: [hrithiksharma900@gmail.com](https://hrithiksharma900@gmail.com)**
